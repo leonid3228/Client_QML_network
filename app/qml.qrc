@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>CheckWindow.qml</file>
+        <file>PersonInfo.qml</file>
+        <file>NewPerson.qml</file>
+        <file>resources/left.svg</file>
+        <file>resources/eye.svg</file>
+    </qresource>
+</RCC>
